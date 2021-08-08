@@ -59,7 +59,7 @@ ul li:hover a{
     background:#fff;
     justify-content: space-around;
     align-items: center;
-    padding:40px 100px;
+    padding:40px 10px;
     /* position: fixed; */
 }
 .header2 nav a{
@@ -98,6 +98,9 @@ header nav li:last-child{
 
 } 
 */
+.header2 nav ul li.set a{
+    color: tomato;
+}
 .banner-area h1{
     font-size:72px;
     font-weight: bolder;
@@ -121,7 +124,8 @@ header nav li:last-child{
     flex-direction: column;
     align-items: center;
     padding:110px 100px;
-    background-image: url("../images/bg2.jpg");
+    background-image: url(https://frogslayer.com/wp-content/uploads/2020/11/headerimage_home_2.png?id=18117);
+    color:#000000;
     background-size: cover;
     /* opacity: 0.5; */
     /* z-index:100; */
